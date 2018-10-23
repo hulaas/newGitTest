@@ -13,3 +13,4 @@ git config --global user.email "youremail@hotmail.com"
 #hvis commit uten -m vil man komme inn i VI text editor, trykk esc så ":wq" enter.
 #git checkout "branchname" for å bytte branch
 #git branch for å se branches
+#git merge "master" for å merge branches
