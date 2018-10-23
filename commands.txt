@@ -10,4 +10,7 @@ git config --global user.email "youremail@hotmail.com"
 3. git commit -m "message"
 4. git push
 
-#hvis commit uten -m vil man komme inn i VI text editor, trykk esc så ":wq" enter for å lagre.
+#hvis commit uten -m vil man komme inn i VI text editor, trykk esc så ":wq" enter.
+#git checkout "branchname" for å bytte branch
+#git branch for å se branches
+#git merge "master" for å merge branches
