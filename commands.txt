@@ -9,3 +9,5 @@ git config --global user.email "youremail@hotmail.com"
 2. git add -A (alle filer)
 3. git commit -m "message"
 4. git push
+
+#hvis commit uten -m vil man komme inn i VI text editor, trykk esc så ":wq" enter for å lagre.
