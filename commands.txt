@@ -1,7 +1,8 @@
 git clone url
 git config --global user.email "youremail@hotmail.com"
-git pull
 
+
+1. git pull
 1. git status
 2. git add "filename.txt" (spesifikk fil)
 2. git add . (alle filer)
