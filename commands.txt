@@ -1,0 +1,7 @@
+git status
+git push
+git pull
+git commit -m "message"
+git clone url
+git add . (alle filer)
+git add -A (alle filer)
