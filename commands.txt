@@ -1,9 +1,10 @@
-git status
-git push
-git pull
-git commit -m "message"
 git clone url
-git add . (alle filer)
-git add -A (alle filer)
-git add "filename.txt" (spesifikk fil)
 git config --global user.email "youremail@hotmail.com"
+git pull
+
+1. git status
+2. git add "filename.txt" (spesifikk fil)
+2. git add . (alle filer)
+2. git add -A (alle filer)
+3. git commit -m "message"
+4. git push
