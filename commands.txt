@@ -1,4 +1,4 @@
-git clone url
+﻿git clone url
 git config --global user.email "youremail@hotmail.com"
 
 
@@ -14,3 +14,5 @@ git config --global user.email "youremail@hotmail.com"
 #git checkout "branchname" for å bytte branch
 #git branch for å se branches
 #git merge "master" for å merge branches
+
+#Ravndal har vært å lagt til en linje :)
