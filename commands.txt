@@ -10,7 +10,7 @@ git config --global user.email "youremail@hotmail.com"
 3. git commit -m "message"
 4. git push
 
-$ git checkout -b [name_of_your_new_branch]
+$ git checkout -b [name_of_your_new_branch] for å lage ny branch
 #hvis commit uten -m vil man komme inn i VI text editor, trykk esc så ":wq" enter.
 #git checkout "branchname" for å bytte branch
 #git branch for å se branches
